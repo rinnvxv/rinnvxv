@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rinnvxv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinnvxv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # Matsuri Project(Developing):
-[<img width="1952" height="1068" alt="Screenshot from 2026-02-01 23-31-11" src="https://github.com/user-attachments/assets/689079e8-e5e1-4ae0-895f-1afedd40ad7f" />](https://matsuri-cipv.onrender.com/)
+[<img width="1920" height="1080" alt="Screenshot from 2026-02-01 23-33-56" src="https://github.com/user-attachments/assets/ec258d55-50e0-4e4d-8260-e4bfeb587fff" />](https://matsuri-cipv.onrender.com/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
