@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rinnvxv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinnvxv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-# Matsuri Project(Developing):
+# Developing Web Project:
 [<img width="1920" height="1080" alt="Screenshot from 2026-02-01 23-33-56" src="https://github.com/user-attachments/assets/ec258d55-50e0-4e4d-8260-e4bfeb587fff" />](https://matsuri-cipv.onrender.com/)
 
 
